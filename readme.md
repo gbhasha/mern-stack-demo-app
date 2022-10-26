@@ -1,1 +1,4 @@
-This is simple demo app using mern stack - MongoDB, expressJS, reactJS and nodeJS
+This is simple demo app created while reading mern stack tutorial.
+
+tech stack - MongoDB, expressJS, reactJS and nodeJS.
+
